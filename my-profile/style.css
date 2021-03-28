@@ -1,0 +1,38 @@
+img { 
+	width : 220px;
+}
+
+body {
+	background-color: #FED8B1;
+	color :#FF4500;
+	font-family: Arial;
+	font-weight: bolder;
+}
+
+h1 {
+	text-align: center;
+	font-family: Arial ;
+	font-weight: lighter;
+}
+
+h2 {
+	color: #00AABB ;
+	margin: 10px; /* will put 80px of margin everywhere */
+padding: 20px; /* will put 40px of padding everywhere */
+}
+
+#divphotoEsther {
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
+
+#boxtitre {
+	width: 600px;
+	border: 10px solid #FF4500;
+	padding: 20px; 
+	margin: 10px; 
+}
+
